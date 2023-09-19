@@ -44,7 +44,7 @@ FSB (封神榜) 是一个Discord机器人，旨在为Discord用户提供一个�
 2. 将机器人添加到您的Discord服务器。
 3. 创建两个文本文件：`discord_key.txt` 和 `openAI_key.txt`，分别存储Discord机器人的key和OpenAI账号的key。
 4. 使用 `/help` 指令查看所有可用的指令。
-5. 开始使用各种功能！
+5. 运行 `Radagon.py` 开始使用各种功能！
 
 
 ### 配置API密钥

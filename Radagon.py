@@ -1,11 +1,6 @@
-import discord
-import os
 import datetime
-import random
 import openai
 from   discord     import app_commands
-from discord.app_commands import CommandInvokeError
-
 from   DB_Manager  import DB_Manager
 from   SpyGame     import *
 
